@@ -34,7 +34,7 @@
 		</init-param>
 		<init-param>
 			<param-name>serverName</param-name>
-			<param-value>http://demo.tianditu.gov.cn:8081/home</param-value>
+			<param-value>http://demo.tianditu.gov.cn:8081</param-value>
 		</init-param>
 		<init-param>
 			<param-name>ignorePattern</param-name>
@@ -52,7 +52,7 @@
 		<init-param>
 			<param-name>serverName</param-name>
 <!--			<param-value>http://localhost:8081/home</param-value>-->
-			<param-value>http://demo.tianditu.gov.cn:8081/home</param-value>
+			<param-value>http://demo.tianditu.gov.cn:8081</param-value>
 		</init-param>
 		<init-param>
 			<param-name>redirectAfterValidation</param-name>
