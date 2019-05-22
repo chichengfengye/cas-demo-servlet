@@ -9,5 +9,6 @@
 <body>
     <h1>Home页面</h1>
     <%=request.getSession().getAttribute("user") %>
+
 </body>
 </html>
